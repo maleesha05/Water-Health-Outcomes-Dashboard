@@ -32,8 +32,7 @@ This project explores the relationship between water &amp; sanitation access (SD
 **Conclusion:**
 This dashboard highlights the critical role of clean water in improving global health and supports the importance of sustainable development goals
 
-**Screenshot**
-![Water & Health Dashboard](Water_&_Health_dashboard.png) 
-
+## Screenshot
+![Water & Health Dashboard](water_health_dashboard.png)
 
 
